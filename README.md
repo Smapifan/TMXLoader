@@ -1,4 +1,6 @@
 # TMXLoader
 The TMXL Map Toolkit Mod Updated for Stardew Valley
 
-All Downloads: [Nexus Mods](https://next.nexusmods.com/profile/Smapifan/mods)
+Download Tmxl Map Toolkit (Updated): [[Nexus Mods](https://next.nexusmods.com/profile/Smapifan/mods](https://www.nexusmods.com/stardewvalley/mods/34376))
+
+Download my Mods: [Nexus Mods](https://next.nexusmods.com/profile/Smapifan/mods)
