@@ -379,7 +379,7 @@ namespace TMXLoader
 
         public static void initOverride(string harmonyId, Type type, Type patch, List<string> toPatch)
         {
-            Harmony harmony = new Harmony("Platonymous.PyTK.PyUtils." + harmonyId);
+            Harmony harmony = new Harmony("Smapifan.PyTK.PyUtils." + harmonyId);
             MethodInfo prefix = patch.GetMethods(BindingFlags.Static | BindingFlags.Public).ToList().Find(m => m.Name.ToLower() == "prefix");
             MethodInfo postfix = patch.GetMethods(BindingFlags.Static | BindingFlags.Public).ToList().Find(m => m.Name.ToLower() == "postfix");
             List<MethodInfo> originals = type.GetMethods().ToList();
